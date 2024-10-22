@@ -1,6 +1,3 @@
-# GUESS-NUMBER
-DEVINEZ LE NOMBRE!
-
 # 🎲 Jeu de Nombre Mystère
 
 **Auteur :** Jean-Baptiste LAVISSE  
